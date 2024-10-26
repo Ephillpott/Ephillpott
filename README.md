@@ -30,7 +30,7 @@ Cybersecurity professional focused on automation and creating actionable insight
 
 * **[ITSM Backup]:** [Used to Retrieve & Export ITSM Audit Logs with Selenium Web Driver] []
 * **[Syslog Backup]:** [Terraform and Shell Scripts to Ship Syslog to an S3 Bucket] [https://github.com/Ephillpott/ShipSyslog]
-* **[Simple SOAR]:** [Detects and blocks network traffic from any ITAR CIDR block. Scans files with ClamAV and quarantines anything picked up by signature based detection. ] []
+* **[Simple SOAR]:** [Detects and blocks network traffic from any ITAR CIDR block. Scans files with ClamAV and quarantines anything picked up by signature based detection. ] [https://github.com/Ephillpott/SimpleSOAR]
 
 
 ## Cryptography
