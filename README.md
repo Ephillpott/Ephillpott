@@ -40,7 +40,7 @@ Cybersecurity professional focused on automation and creating actionable insight
 
 *   **[Simple SOAR](https://github.com/Ephillpott/SimpleSOAR)**
 
-    Detects and blocks network traffic from any ITAR CIDR block. Scans files with ClamAV and quarantines anything picked up by signature-based detection.
+    Detects and blocks network traffic from any ITAR countries. Scans files with ClamAV and quarantines anything picked up by signature-based detection.
 
 ## Cryptography
 
