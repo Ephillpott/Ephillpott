@@ -9,8 +9,6 @@ Cybersecurity professional focused on automation and creating actionable insight
 * [Threat Intelligence](#threat-intelligence)
 * [Security Automation](#security-automation)
 * [Cryptography](#cryptography)
-* [Skills and Tools](#skills-and-tools) 
-* [Contact](#contact)
 
 ## Vulnerability Management
 
