@@ -2,14 +2,6 @@ Hi, I'm Eric
 
 Cybersecurity professional focused on automation and creating actionable insights from high volume security data
 
-## Table of Contents
-
-*   [Vulnerability Management](#vulnerability-management)
-*   [Event Monitoring & Log Analysis](#event-monitoring--log-analysis)
-*   [Threat Intelligence](#threat-intelligence)
-*   [Security Automation](#security-automation)
-*   [Cryptography](#cryptography)
-
 ## Vulnerability Management
 
 *   **[VulnScan](https://github.com/Ephillpott/VulnScan)**
