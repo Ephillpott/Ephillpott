@@ -8,6 +8,11 @@ Cybersecurity professional focused on automation and creating actionable insight
 
     Simple Web Application Vulnerability Scanner Written in C
 
+*   **[VIGIL](https://github.com/Ephillpott/)**
+
+    Vulnerability Intelligence & Guided Impact Layer
+    Fully automated vulnerability intelligence platform with n8n.
+
 ## Event Monitoring & Log Analysis
 
 *   **[Salesforce Event Ingestion](https://github.com/Ephillpott/Salesforce_EM)**
